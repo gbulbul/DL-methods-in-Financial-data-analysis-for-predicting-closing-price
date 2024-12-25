@@ -101,7 +101,7 @@ class Predicting_closing_price_with_LSTM_model:
         plt.legend(['Train', 'Val', 'Predictions'], loc='lower right')
         plt.show()
 
-# Visualize the data
+
 if __name__=="__main__":
     RMSE_LSTM,RMSE_CNN,RMSE_MLP=[],[],[]
     stocks=['AAPL','MSFT','AMZN','NVDA']
