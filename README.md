@@ -1,14 +1,14 @@
 This program aims to compare 3 different DL models, including MLP, CNN and LSTM, with respect to how they did on predicting closing price of 3 different stocks, namely, MSFT, AMZN, NVDIA by using RMSE values.
 
-MSFT model graphs given in order (LEFT: MLP, MIDDLE: CNN, RIGHT: LSTM)
+MSFT model graphs given in order (Top: MLP, Middle: CNN, Bottom: LSTM)
 ![image](https://github.com/user-attachments/assets/68d14bc1-e6d8-49dc-84f8-d48898b79ce2) ![image](https://github.com/user-attachments/assets/72915433-9ce7-47e6-8921-318f1d2091ec) ![image](https://github.com/user-attachments/assets/ed276c36-873b-45b9-a352-10c6d4dc82a8)
 
 
-AMZN model graphs given in order (LEFT: MLP, MIDDLE: CNN, RIGHT: LSTM)
+AMZN model graphs given in order (Top: MLP, Middle: CNN, Bottom: LSTM)
 ![image](https://github.com/user-attachments/assets/04539744-7cd2-4373-8e6f-5da6e725eb5f) ![image](https://github.com/user-attachments/assets/c9795ac7-654e-4c41-b209-be59d6c37e75) ![image](https://github.com/user-attachments/assets/c5092cfe-9b77-43ef-bbdf-632e0c7d11ad)
 
 
-NVDIA model graphs given in order (LEFT: MLP, MIDDLE: CNN, RIGHT: LSTM)
+NVDIA model graphs given in order (Top: MLP, Middle: CNN, Bottom: LSTM)
 ![image](https://github.com/user-attachments/assets/5df7389e-6001-4fed-8004-f765ae04cc55) ![image](https://github.com/user-attachments/assets/f11a97f7-d26a-463c-92d6-4b0a60224868) ![image](https://github.com/user-attachments/assets/ea711e5a-e0a4-4960-a72c-c2e8576cfcb6)
 
 
